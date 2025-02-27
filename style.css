@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color:#e2edff;
+}
+
+.jumbotron-project{
+  background-color: #e2edff;
+  padding-top: 0.5px;
+}
+
+.nav-link{
+  color: white;
+}
+
+.navbar-brand {
+  font-family: calibri;
+}
+.display-4 {
+  font-family: calibri;
+}
+
+.text-white fw-bold {
+  font-family: calibri;
+}
+
+body {
+  font-family: arial;
+}
